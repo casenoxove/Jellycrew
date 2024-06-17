@@ -144,10 +144,6 @@ main .four button {
     border: 0;
     border-radius: 50px;
 }
-main .four button:hover {
-    background-color: #FFED79;
-    color: #A85FF0;
-}
 main .four .arrow {
     position: relative;
 }
@@ -237,10 +233,6 @@ main .six button {
     font-weight: 700;
     border: 0;
     border-radius: 50px;
-}
-main .six button:hover {
-    background-color: #FFED79;
-    color: #A85FF0;
 }
 main .six .spakle {}
 main .six .spakle img:nth-child(1) {
